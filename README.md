@@ -1,5 +1,6 @@
 # RTR105
 Studiju kursa Datormācibā (pamatkurss) elektroniskā klade
+
 **cd** - parvietošana
 **ls** -  parskats kas ir mape 
 **pwd** - atrašanas vieta ~~(kur mes esam?)~~
@@ -9,5 +10,4 @@ Studiju kursa Datormācibā (pamatkurss) elektroniskā klade
 **uname** - parada sistemu vardu
 **man** - manual!☻
 **_file_ > _file.txt_** - izveidošana failu 
-
 **/** - ~~ļoti svariga zime~~☺
