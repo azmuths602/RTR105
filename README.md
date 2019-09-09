@@ -1,6 +1,5 @@
 # RTR105
 Studiju kursa Datormācibā (pamatkurss) elektroniskā klade
-
 **cd** - parvietošana
 **ls** -  parskats kas ir mape 
 **pwd** - atrašanas vieta ~~(kur mes esam?)~~
