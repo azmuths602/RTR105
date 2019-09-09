@@ -1,0 +1,59 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  version
+    5  whoiam
+    6  whoami
+    7  whereami
+    8  pwd
+    9  ls
+   10  cd desktop
+   11  dir
+   12  dir desktop
+   13  ls
+   14  pwd
+   15  VirtualBox --startvm XP
+   16  l
+   17  who
+   18  l
+   19  mkdir desktop
+   20  mkdir
+   21  mkdir --help
+   22  who
+   23  man
+   24  7
+   25  1
+   26  man
+   27  1
+   28  man 1
+   29  man who
+   30  shell
+   31  shell spell
+   32  spell
+   33  apt
+   34  apt list
+   35  sh
+   36  pwd
+   37  cd /home
+   38  ls
+   39  cd
+   40  cd /download
+   41  cd /downloads
+   42  cd home
+   43  cd /download
+   44  cd /downloads
+   45  ls
+   46  cd /Downloads
+   47  cd /documents
+   48  cd /music
+   49  cd
+   50  ls -l
+   51  /
+   52  cd
+   53  pwd
+   54  cd /
+   55  cd home/user
+   56  pwd
+   57  cd home/user/
+   58  man wc
+   59  history > history_20190909.txt
