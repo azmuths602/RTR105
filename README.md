@@ -9,4 +9,5 @@ Studiju kursa Datormācibā (pamatkurss) elektroniskā klade
 **uname** - parada sistemu vardu
 **man** - manual!☻
 **_file_ > _file.txt_** - izveidošana failu 
+
 **/** - ~~ļoti svariga zime~~☺
