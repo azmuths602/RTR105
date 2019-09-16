@@ -10,3 +10,10 @@ Studiju kursa Datormācibā (pamatkurss) elektroniskā klade
 **man** - manual!☻
 **_file_ > _file.txt_** - izveidošana failu 
 **/** - ~~ļoti svariga zime~~☺
+**ls -l** 
+**rm**
+**mv**
+**echo -e**
+**>>**
+**>**
+**touch aaa.txt**
