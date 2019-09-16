@@ -1,0 +1,77 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  VirtualBox --startvm XP
+    5  echo -e "Hello\vWorld!" >> ccc.txt
+    6  cat ccc.txt
+    7  echo -e "Hello\v\\World!" >> ccc.txt
+    8  cat ccc.txt
+    9  ls -l /bin/bash
+   10  ls -l /bin/ls
+   11  cat /bin/bash
+   12  62;c62;c62;cjhjklllkhfklhfklhlkhd
+   13  lighdlihdlhlfd
+   14  goifhdiilt
+   15  lghflffl;kh
+   16  hhjjf;gf
+   17  flhkfdkj;
+   18  dashbord
+   19  touch aaa.txt
+   20  ls -l
+   21  touch -c -t 201909171000 aaa.txt
+   22  ls -l
+   23  echo Hello World! > aaa.txt
+   24  ls -l aaa.txt
+   25  cat aaa.txt
+   26  echo Hello World again! > aaa.txt
+   27  cat aaa.txt
+   28  ls -l aaa.txt
+   29  echo Hello World! > aaa.txt
+   30  echo Hello World again! >> aaa.txt
+   31  ls -l aaa.txt
+   32  cat aaa.txt
+   33  man echo
+   34  echo -e "Hello World!" >> ccc.txt
+   35  cat ccc.txt
+   36  echo -e "Hello\World!" >> ccc.txt
+   37  cat ccc.txt
+   38  echo -e "Hello\vWorld!" >> ccc.txt
+   39  cat ccc.txt
+   40  echo -e "Hello\vWorld!" << ccc.txt
+   41  cat ccc.txt
+   42  echo -e "Hello\vWorld!" >> ccc.txt
+   43  qiet
+   44  qeit
+   45  qait
+   46  exit
+   47  /$ mv ~/bbb.txt `/Music/d10.tx
+   48  echo -e "Hello\vWorld!" >> ccc.txt
+   49  /$ mv ~/bbb.txt `/Music/d10.tx
+   50  /$ mv ~/bbb.txt `/Music/d10.txt
+   51  
+   52  /$ mv ~/bbb.txt ~/Music/d10.txt
+   53  
+   54  /$ mv ~/aaa.txt ~/Music/d10.txt
+   55  history > history.txt
+   56  PATH=$PATH:~
+   57  PATH=$PATH
+   58  echo $PATH
+   59* 
+   60  PATH=$PATH:~
+   61  PATH=$PATH
+   62  ls
+   63  MansPirmaisskripts.sh
+   64  ls -l MansPirmaisskripts.sh
+   65  chmod740 MansPirmaisskripts.sh 
+   66  chmod 740 MansPirmaisskripts.sh 
+   67  ls -l MansPirmaisskripts.sh
+   68  ls
+   69  MansPirmaisskripts.sh
+   70  ls
+   71  cat log.txt
+   72  cat error.txt
+   73  cat log.txt
+   74  MansPirmaisskripts.sh
+   75  cat z100.txt
+   76  history
+   77  history >history_20190916.txt
