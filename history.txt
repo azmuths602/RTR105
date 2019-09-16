@@ -1,0 +1,24 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  VirtualBox --startvm XP
+    5  echo -e "Hello\vWorld!" >> ccc.txt
+    6  cat ccc.txt
+    7  echo -e "Hello\v\\World!" >> ccc.txt
+    8  cat ccc.txt
+    9  ls -l /bin/bash
+   10  ls -l /bin/ls
+   11  cat /bin/bash
+   12  62;c62;c62;cjhjklllkhfklhfklhlkhd
+   13  lighdlihdlhlfd
+   14  goifhdiilt
+   15  lghflffl;kh
+   16  hhjjf;gf
+   17  flhkfdkj;
+   18  dashbord
+   19  /$ mv ~/bbb.txt `/Music/d10.txt
+
+   20  /$ mv ~/bbb.txt ~/Music/d10.txt
+   21  
+   22  /$ mv ~/aaa.txt ~/Music/d10.txt
+   23  history > history.txt
