@@ -1,0 +1,17 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  git clone https://github.com/azmuths602/RTR105
+    5  ls -l
+    6  git
+    7  ~/RTR105
+    8  ~/RTR105$ nano git-upload
+    9  ~/RTR105 nano git-upload
+   10  ~/RTR105$ nano git-upload
+   11  ~/RTR105
+   12  cd ~/RTR105
+   13  nano git-upload
+   14  chmod 755
+   15  chmod 755 git-upload
+   16  history
+   17  history > history_20190923.txt
