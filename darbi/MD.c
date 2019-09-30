@@ -1,6 +1,8 @@
 #include <stdio.h>
  
  float pi(float a) {
+return a;
+
 }
 
  int main() {
