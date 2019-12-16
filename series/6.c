@@ -6,7 +6,7 @@ void main()
  int k=0 ;
 printf("ievetot X \n");
 scanf("%le",&x);
- y=sin(x)*sin(x);
+ y=j0(x);
  printf("y=sin(%.2f)=%.2f\n",x,y);
 
  a = pow(-1,k)*pow(x,2*k+1)/(1.);
